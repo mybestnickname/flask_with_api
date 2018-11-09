@@ -1,0 +1,15 @@
+table, th, td {
+ 	border: 1px solid black;
+}
+.first{
+	color: blue;
+}
+.second{
+	background-color: red;
+}
+.third{
+	color: green;
+}
+h2#title {
+	color: red;
+}
